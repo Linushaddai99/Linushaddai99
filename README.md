@@ -31,8 +31,7 @@
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ShaddaiLinus" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/linusshaddai/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
-<a href="https://dev.to/hamanel" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
+<a href="https://www.linkedin.com/in/linusshaddai/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a>
 </p>
 
 - ✨ Interests: coding, reading books, music and eating 😆.
@@ -74,9 +73,9 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linushaddai99&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-<h2>Weekly Coding Stats</h2>
+<!-- <h2>Weekly Coding Stats</h2> -->
 
 
-[![Shaddai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linushaddai99&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Shaddai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linushaddai99&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
