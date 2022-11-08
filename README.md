@@ -30,8 +30,8 @@
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ShaddaiLinus" target="_blank"><img align="center" src="[./images/twitter.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATwitter-logo.svg&psig=AOvVaw3bnoEX2m-ANqhJm1Pj4iO9&ust=1667985949122000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNi8tIKinvsCFQAAAAAdAAAAABAE)" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/linusshaddai/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ShaddaiLinus" target="_blank"><img align="center" src="./img/Twitter-logo.png" alt="twitter" width="35" /></a> &nbsp;
+<a href="./img/Linkedin-logo.png" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a>
 </p>
 
 - ✨ Interests: coding, reading books, music and eating 😆.
