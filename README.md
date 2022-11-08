@@ -25,7 +25,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://h-manel.me/)
+### 🚀 Check out [my portfolio.](https://jisomspecial-porfolio.netlify.app/)
 
 ### 📫 Reach me on:
 
