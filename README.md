@@ -6,11 +6,11 @@
 ---
 
 <div align="center">
-  <! -- <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
-  <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
-  <a href = "https://commits.top/algeria.html" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
-	</a>
+  <! -- <img src="https://badges.pufler.dev/visits/Linushaddai99/Linushaddai99?color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=Linushaddai99&color=3f37c9">
+  <!-- <a href = "https://commits.top/algeria.html" target="_blank">
+		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="Linushaddai99" target="_blank"/> 
+	</a> -->
 </div>
 
 ---
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently working on side projects.
 
-- 💻 All **my projects** are available [here.](https://github.com/ha-manel?tab=repositories)
+- 💻 All **my projects** are available [here.](https://github.com/Linushaddai99?tab=repositories)
 
 ### 🚀 Check out [my portfolio.](https://jisomspecial-porfolio.netlify.app/)
 
@@ -31,7 +31,7 @@
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/ShaddaiLinus" target="_blank"><img align="center" src="./img/Twitter-logo.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="./img/Linkedin-logo.png" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a>
+<a href="https://www.linkedin.com/in/linusshaddai/" target="_blank"><img align="center" src="./img/Linkedin-logo.png" alt="linkedin" width="35" /></a>
 </p>
 
 - ✨ Interests: coding, reading books, music and eating 😆.
