@@ -27,6 +27,8 @@
 
 ### 🚀 Check out [my portfolio.](https://jisomspecial-porfolio.netlify.app/)
 
+### Email me via: awajisomegak@gmail.com
+
 ### 📫 Reach me on:
 
 <p align="left">
