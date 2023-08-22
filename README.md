@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Linus Shaddai</h1>
 <h3 align="center">A Software developer from Nigeria</h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">Currently, I am a Frontend Developer at Habeep. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
 ---
 
