@@ -25,7 +25,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/Linushaddai99?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://jisomspecial-porfolio.netlify.app/)
+### 🚀 Check out [my portfolio.](https://shaddai.onrender.com/)
 
 ### Email me via: awajisomegak@gmail.com
 
